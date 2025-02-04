@@ -1,19 +1,19 @@
 {
     "config": {
         "abort": {
-            "already_configured": "Device is already configured"
+            "already_configured": "Eszköz már be van állítva"
         },
         "error": {
-            "cannot_connect": "Failed to connect",
+            "cannot_connect": "Kapcsolódási hiba",
             "invalid_auth": "Invalid authentication",
             "unknown": "Unexpected error"
         },
         "step": {
             "user": {
                 "data": {
-                    "host": "Service url",
-                    "port": "Service port",
-                    "unit": "Central unit name"
+                    "host": "Szerver elérési út",
+                    "port": "Szerver port",
+                    "unit": "CU név"
                 },
                 "description": "If you need help with the configuration have a look here: https://github.com/JH-Soft-Technology/InelsForHass",
                 "title": "iNels"
