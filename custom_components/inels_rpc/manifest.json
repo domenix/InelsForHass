@@ -1,5 +1,5 @@
 {
-  "domain": "inels",
+  "domain": "inels_rpc",
   "name": "Inels over XMLRPC",
   "codeowners": [
     "@jhoralek",
